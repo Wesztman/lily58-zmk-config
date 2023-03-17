@@ -28,7 +28,7 @@
             &kp ESC     &kp N1  &kp N2        &kp N3    &kp N4     &kp N5                        &kp N6         &kp N7     &kp N8     &kp N9    &kp N0      &kp GRAVE
             &kp TAB     &kp Q   &kp W         &kp F     &kp P      &kp B                         &kp J          &kp L      &kp U      &kp Y     &kp SE_OO   &kp SE_AE
             &kp LSHIFT  &kp A   &kp R         &kp S     &kp T      &kp G                         &kp M          &kp N      &kp E      &kp I     &kp O       &kp SE_AA
-            &kp LCTRL   &kp Z   &kp X         &kp C     &kp D      &kp V   &kp HOME   &kp END    &kp K          &kp H      &kp COMMA  &kp DOT   &kp FSLH    &kp RSHFT
+            &kp LCTRL   &kp Z   &kp X         &kp C     &kp D      &kp V   &kp HOME   &kp END    &kp K          &kp H      &kp COMMA  &kp DOT   &kp FSLH    &kp ENTER
                     &kp LEFT_ALT  &lt NUMBER TAB  &lt SYMBOLS_SWE ENTER   &kp SPACE  &kp BACKSPACE  &kp DEL  &lt FUNC ESC   &kp RGUI
             >;
         };
